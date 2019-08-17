@@ -63,6 +63,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-taglist
 compress_html:
   clippings: all
   comments: all
@@ -77,6 +79,4 @@ exclude:
   - package.json
   - README.md
 
-gems:
-- jekyll-seo-tag
-- jekyll-taglist
+
