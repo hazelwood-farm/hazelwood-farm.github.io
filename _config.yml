@@ -1,29 +1,21 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: robert.weston1995@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Hazelwood Farm
+title: Welcome to Hazelwood
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Welcome to Hazelwood farm. Come for the foccacia and stay for the crafts.
 url: http://barber.samesies.io
-twitter_username: thomasvaeth
+twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/thomas.vaeth/ 
 
-# Contact settings
+# Contact settings (this requires a mail chimp account)
 contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
@@ -36,8 +28,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+  - name: Rob Weston
+    bio: 
     url: http://thomasvaeth.com
 
 # Pagination settings
@@ -59,7 +51,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Hazelwood Farm'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
