@@ -4,68 +4,95 @@
     <title>Welcome to Hazelwood</title>
     <description>Welcome to Hazelwood farm. Come for the foccacia and stay for the crafts.
 </description>
-    <link>https://hazelwood-farm.github.io</link>
-    <atom:link href="https://hazelwood-farm.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Aug 2019 11:53:13 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2019 11:53:13 +0100</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Sep 2019 19:42:03 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 19:42:03 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>About Us</title>
-        <description>&lt;p&gt;Welcome to Hazelwood Farm.&lt;/p&gt;
+        <description>&lt;p&gt;As long as I can remember, I have created things. I see almost everything as a picture, and whether it be turning a scrap of fabric into something new or designing a garden (or a house!) I don’t seem to be able to stop re-creating, re-using and re-inventing. I have been so lucky to be able to indulge my creativity in harmony with the nature that is all around us in North Norfolk, and the ever changing landscape means that I need never be finished.&lt;/p&gt;
 
-&lt;p&gt;We offer sustainable creative retreats in our XXth-century farmhouse, set in the beautiful countryside of North Norfolk.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/beach-hut-1.jpg&quot; alt=&quot;Beach Hut&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/hazelwood-farm.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I have always loved sharing my passion with friends, and am now excited to be able to offer the tranquility and inspiration that I have found here at Hazelwood Farm to a wider audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/hazelwood-farm.jpg&quot; alt=&quot;Hazelwoood Farm&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://hazelwood-farm.github.io/2019/08/17/about-us/</link>
-        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/about-us/</guid>
+        <link>http://localhost:4000/2019/08/17/about-us/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/17/about-us/</guid>
         
         
       </item>
     
       <item>
         <title>The Workshops</title>
-        <description>
+        <description>&lt;p&gt;As my children would smugly tell me aged about 3 or 4 - ‘sharing is caring’ . Our workshops have been developed as a way to share what we have enjoyed ourselves over the years - and as a way for our guests to practice ‘self care’ and explore their creativity in a relaxing rural environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lino.png&quot; alt=&quot;Lino&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The atmosphere is laid back - supremely comfortable, but relaxed. A typical weekend could include 2 or 3 tutored workshops where guests can create their own, handmade, eco friendly and sustainable projects to take home. Sessions vary, but take inspiration from the natural world and vintage finds in the spirit of re-using and re-creating. In addition, there is always an ongoing ‘creative station’ for those who would like to sit with a cup of tea - or a glass of wine - and a piece of cake … and keep creating. The facilities are available at any time - and other options could include a walk on the beach, a movie night - whatever takes your fancy.&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://hazelwood-farm.github.io/2019/08/17/the-workshop/</link>
-        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-workshop/</guid>
+        <link>http://localhost:4000/2019/08/17/the-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-workshop/</guid>
         
         
       </item>
     
       <item>
         <title>The House</title>
-        <description>
+        <description>&lt;p&gt;There has been a dwelling on this site since the 15th century and although it is now essentially a family home that has been added to and renovated over the years, there is a feeling of permanence and grounding within its walls.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/caravan.jpg&quot; alt=&quot;Caravan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Set in 10 acres of North Norfolk countryside, on the edge of a village and within striking distance of the sea, it encompasses a poplar wood, fledgling wild flower meadow and a kitchen garden. There are 6 double bedrooms available for guests, spread across the main house and a converted barn just across the drive. 4 of the rooms have private or en suite bathrooms, and 2 share a spacious bathroom and shower. In addition, there is an outdoor, heated swimming pool, hot tub, sauna and well equipped gym. Summer evenings are often spent in the garden - but when the nights close in, there is always the option of a movie in the cinema, or curling up in front of a log fire with a good book. It really can be very hard to leave!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/house-2.jpg&quot; alt=&quot;The house&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/norfolk.jpg&quot; alt=&quot;Norfolk&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://hazelwood-farm.github.io/2019/08/17/the-house/</link>
-        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-house/</guid>
+        <link>http://localhost:4000/2019/08/17/the-house/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-house/</guid>
         
         
       </item>
     
       <item>
         <title>The Kitchen</title>
-        <description>
+        <description>&lt;p&gt;The filling of the house with friends and family, and the sharing of meals has always been a feature of life at Hazelwood Farm. We are lucky to have wonderful local produce available and when the organic vegetable garden is challenged, or the resident hens are resting - there’s always the larder to fall back on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/egss.jpg&quot; alt=&quot;Eggs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jane makes amazing fresh and healthy vegetarian food and excels at producing just too many delicious cakes, not to mention her legendary focaccia! Her recipes often go home with our guests - along with a jar of jam or cherry vodka.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tea-on-the-beach.jpg&quot; alt=&quot;Tea on The Beach&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://hazelwood-farm.github.io/2019/08/17/the-kitchen/</link>
-        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-kitchen/</guid>
+        <link>http://localhost:4000/2019/08/17/the-kitchen/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-kitchen/</guid>
         
         
       </item>
     
       <item>
         <title>The Garden</title>
-        <description>
+        <description>&lt;p&gt;The garden is a constantly changing landscape. I like to think of it as a ‘yes’ place - there always seems room to experiment and to learn without disrupting the balance of what has been here for centuries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flowers.jpg&quot; alt=&quot;Flower&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year we had our first full year of the newly designed kitchen garden (many lessons learnt - and no doubt, many still to come!) and left the meadow long in parts to encourage butterflies and bees - the buzz and flutter of wings on a warm day was magical. Nothing ever stands still, and even in the depth of winter there is something to fortify, inspire and delight.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/garden-chickens.jpg&quot; alt=&quot;Chickens&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>https://hazelwood-farm.github.io/2019/08/17/the-garden/</link>
-        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-garden/</guid>
+        <link>http://localhost:4000/2019/08/17/the-garden/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-garden/</guid>
         
         
       </item>
