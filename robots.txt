@@ -1,1 +1,1 @@
-Sitemap: hazelwood-farm.github.io/sitemap.xml
+Sitemap: /sitemap.xml
