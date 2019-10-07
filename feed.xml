@@ -4,10 +4,10 @@
     <title>Welcome to Hazelwood</title>
     <description>Welcome to Hazelwood farm. Come for the foccacia and stay for the crafts.
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Oct 2019 10:51:08 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Oct 2019 10:51:08 +0100</lastBuildDate>
+    <link>https://hazelwood-farm.github.io</link>
+    <atom:link href="https://hazelwood-farm.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Oct 2019 10:58:19 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2019 10:58:19 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/about-us/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/about-us/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/about-us/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/about-us/</guid>
         
         
       </item>
@@ -89,8 +89,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/workshop/IMG_6472.jpg&quot; alt=&quot;Workshop&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/the-workshop/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-workshop/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/the-workshop/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-workshop/</guid>
         
         
       </item>
@@ -126,8 +126,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/house/window.jpg&quot; alt=&quot;image-12&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/the-house/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-house/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/the-house/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-house/</guid>
         
         
       </item>
@@ -187,8 +187,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/garden/IMG_6486.jpg&quot; alt=&quot;garden-1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/the-garden/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-garden/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/the-garden/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-garden/</guid>
         
         
       </item>
@@ -227,8 +227,8 @@
 
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/the-kitchen/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/the-kitchen/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/the-kitchen/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/the-kitchen/</guid>
         
         
       </item>
@@ -238,8 +238,8 @@
         <description>&lt;p&gt;To find out more about our weekend retreats (or anything else for that matter) please email me at info@myhazelwood.co.uk.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/17/contact/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/17/contact/</guid>
+        <link>https://hazelwood-farm.github.io/2019/08/17/contact/</link>
+        <guid isPermaLink="true">https://hazelwood-farm.github.io/2019/08/17/contact/</guid>
         
         
       </item>
